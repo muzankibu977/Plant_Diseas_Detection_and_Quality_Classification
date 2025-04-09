@@ -10,4 +10,15 @@ Install all the dependencies(not pytorch)
 Install pytorch via cudatoolkit
             - Follow the link: https://pytorch.org/
             - Submit your pc requirement and generate the pytorch download link
-copy the ipynb code cells and run.
+Project directory Structure-
+       -project445
+            -train
+                -img1, img2, img3.....
+            -valid
+                -img1, img2, img3.....
+            -train
+                -img1, img2, img3.....
+            -code.ipynb
+            -gpu monitor
+            -hudai.py
+copy-paste the ipynb code cells and run.
