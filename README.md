@@ -1,6 +1,11 @@
 # 🌿 Plant Disease Classification with GPU Support
 
-This project uses deep learning to classify plant diseases using the [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset). It leverages a GPU-enabled setup with CUDA Toolkit 12.6 and PyTorch for efficient training.
+This project uses deep learning to classify plant diseases using the [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset). It leverages a GPU-enabled setup with CUDA Toolkit 12.6 and PyTorch for efficient training. The dataset contains high-resolution images of healthy and diseased plants, covering a wide variety of crops and infections, making it ideal for training robust deep learning models. The project includes data preprocessing, augmentation techniques, and transfer learning with pre-trained CNN architectures like ResNet or EfficientNet to improve classification accuracy. Additionally, it implements a user-friendly interface for real-time disease prediction, enabling farmers and agricultural experts to quickly diagnose plant health issues. 
+
+
+#### [Please follow the given instructions step by step to execute the project, ensuring all dependencies are installed and the dataset is properly structured for seamless execution.]
+
+
 
 ---
 
