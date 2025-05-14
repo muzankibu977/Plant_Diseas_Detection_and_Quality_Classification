@@ -1,0 +1,2 @@
+GitHub: https://github.com/Durjoy01/Plant-Disease-Classification-with-GPU-Support-MLP-
+Dataset link -https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
