@@ -134,6 +134,12 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ---
 
+## 🐍 Deploy the UI
+
+Run the python file [app.py] or [app2.1.py](upgrade) to launch the project UI
+
+---
+
 ## 📁 Directory Structure
 
 ```
