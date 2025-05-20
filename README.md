@@ -1,7 +1,3 @@
-Here's a **professional and attractive README.md** file that combines the details from both files (`code.txt` and `Pasted_Text_1747756126825.txt`) into a cohesive, well-structured documentation for your project.
-
----
-
 # 🌿 Plant Disease Classifier with CNN
 
 A deep learning-based application to detect plant diseases using images. The system is built using PyTorch for training a Convolutional Neural Network (CNN) model and a custom-built GUI app using Tkinter for real-time prediction and diagnosis tracking.
