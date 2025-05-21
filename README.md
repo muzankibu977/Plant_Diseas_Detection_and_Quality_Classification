@@ -2,6 +2,8 @@
 
 A deep learning-based application to detect plant diseases using images. The system is built using PyTorch for training a Convolutional Neural Network (CNN) model and a custom-built GUI app using Tkinter for real-time prediction and diagnosis tracking.
 
+![Screenshot 2025-05-20 213145](https://github.com/user-attachments/assets/a172508c-5a00-4e80-abda-43e66cd56cf9)
+
 ---
 
 ## 📦 Project Overview
